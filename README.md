@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PAristi1992
 - 👀 I’m interested in tennis, drones and technology
-- 🌱 I’m currently learning java, js, phyton, c++
+- 🌱 I’m currently learning java, js, phyton, C++
 - 💞️ I’m looking to collaborate on disruptive tech
 - 📫 How to reach me ...
 
